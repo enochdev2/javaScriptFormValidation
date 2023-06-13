@@ -86,9 +86,13 @@ html, body{
             font-size: medium;
             font-weight: bold;
             margin: 10px 0 ;
-          }
+          
+           .err {
+            height: 14px;
+              }
           .signin2 {
               margin: 10px 0;
+              cursor: pointer;
               border-radius: 90px;
               background: white;
               font-size: 1.3rem;
@@ -98,6 +102,7 @@ html, body{
               border-radius:90px;
               height: 40px;
               color: white;
+              cursor: pointer;
               font-size: large;
               font-weight: bold;
           }
